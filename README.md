@@ -12,6 +12,14 @@ Click here to see the designs in Figma -> https://www.figma.com/design/AVyoD2Oto
 
 ---
 
+## Skills and Tools Used 🛠️
+- UX/UI Design: Design Thinking, User Research, Wireframing, Prototyping, User testing
+- Tools: Figma, Adobe XD, HTML, CSS, JavaScript
+- Methodologies: Agile (Scrum), iterative design process
+- Soft skills: Leadership, Collaboration, Creativity 
+
+---
+
 ## The Challenge 🧩
 
 The original version of DormShops, which first launched in **August of 2023**, faced several issues:
@@ -105,10 +113,4 @@ I led the redesign process as a UX/UI designer and developer, collaborating cros
 
 The DormShops redesign successfully addressed key issues related to usability and engagement, transforming the app into a more intuitive and user-friendly platform. Through careful research, user-centered design, and collaboration with cross-functional teams, the project achieved its goals of boosting user satisfaction and supporting the growth of student-led businesses. This project reinforced my skills in UX/UI design, research, and collaboration, making it a key milestone in my design career. 🎓
 
----
-
-## Technologies & Tools 🛠️
-
-- **Design Tools**: Figma, Canva, Paper/Pen
-- **Other Tools**: Google Workspace, Microsoft Office
 
