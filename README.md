@@ -2,7 +2,7 @@
 <img width="124" alt="Screenshot 2024-12-27 at 11 14 04 PM" src="https://github.com/user-attachments/assets/c2516d0c-da12-47f2-80d3-f1363c2b5c7d" />
 
 ---
-Click here to see the designs in Figma -> https://www.figma.com/design/AVyoD2OtoTuByPJc8ycE5G/DormShops?node-id=1-2&t=nX0dTrYlta27OcSu-1
+### Click here to see the designs in Figma -> https://www.figma.com/design/AVyoD2OtoTuByPJc8ycE5G/DormShops?node-id=1-2&t=nX0dTrYlta27OcSu-1
 
 ---
 
